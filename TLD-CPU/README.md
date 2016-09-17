@@ -1,7 +1,10 @@
+
 TLD
 ===
 
 This is a C++ implementation of the Tracking-Learning-Detection (TLD) algorithm.
+
+using opencv2412 and visual studio 2012 in win7 x64
 
 The code is functional right now, but not stable, i.e. little changes of parameters will lead the result turning worse.
 
